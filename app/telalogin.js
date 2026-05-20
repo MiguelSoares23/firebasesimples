@@ -25,7 +25,7 @@ export default function TelaLogin() {
   };
 
   return (
-    <View style={{ padding: 20 }}>
+    <View style={{ padding: 20, backgroundColor: "#fdfada" }}>
       <Text style={{ fontSize: 20 }}>Login</Text>
 
       <TextInput

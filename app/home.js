@@ -32,7 +32,7 @@ export default function Home() {
   }, []);
 
   return (
-    <View style={{ padding: 20 }}>
+    <View style={{ padding: 20, backgroundColor: "#fdfada" }}>
       <Text style={{ fontSize: 20 }}>Cotação de Moedas</Text>
       <Text>Atualizado em: {data}</Text>
 
